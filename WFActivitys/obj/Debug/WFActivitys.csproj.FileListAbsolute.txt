@@ -1,0 +1,7 @@
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WFActivitys\bin\Debug\WFActivitys.dll
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WFActivitys\bin\Debug\WFActivitys.pdb
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WFActivitys\bin\Debug\DAL.dll
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WFActivitys\bin\Debug\DAL.pdb
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WFActivitys\obj\Debug\WFActivitys.csprojResolveAssemblyReference.cache
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WFActivitys\obj\Debug\WFActivitys.dll
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WFActivitys\obj\Debug\WFActivitys.pdb

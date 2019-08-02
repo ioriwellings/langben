@@ -1,0 +1,9 @@
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\bin\WcfHost.dll
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\bin\WcfHost.pdb
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\bin\BLL.dll
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\bin\IBLL.dll
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\bin\BLL.pdb
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\bin\IBLL.pdb
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\obj\Debug\WcfHost.csprojResolveAssemblyReference.cache
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\obj\Debug\WcfHost.dll
+D:\360云盘\CodeMaker\CodeMaker\Resources\Solution\WcfHost\obj\Debug\WcfHost.pdb
